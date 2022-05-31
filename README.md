@@ -4,8 +4,8 @@
 
 [<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Freepik - Flaticon</a>
+[<img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/free-icons/instagram" />][instagram]
+
 <!--
 **devendarsai/devendarsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
