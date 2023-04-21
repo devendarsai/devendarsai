@@ -19,7 +19,7 @@
 
 <img align="left" alt="Devendar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devendarsai&show_icons=true&theme=dark&hide=stars,issues,contribs" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devendarsai&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devendarsai&layout=compact&theme=dark&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]:https://www.instagram.com/devendarsaithallam/
 [linkedin]: https://linkedin.com/in/devendarsaithallam
